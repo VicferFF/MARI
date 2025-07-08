@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Para ti, mi amor 💖</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background: linear-gradient(to right, #ffdde1, #ee9ca7);
+      color: #fff;
+      text-align: center;
+    }
+
+    .container {
+      padding: 50px 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+      color: #fff8f0;
+      text-shadow: 2px 2px #ff7e79;
+    }
+
+    p {
+      font-size: 1.4em;
+      margin: 20px auto;
+      max-width: 600px;
+      background-color: rgba(255, 255, 255, 0.2);
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 10px #ffb6b9;
+    }
+
+    .hearts {
+      font-size: 2em;
+      margin: 30px 0;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 1em;
+      color: #fff8f0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌹 Para la persona más especial 🌹</h1>
+    
+    <div class="hearts">❤️ 💖 💕 💘 💝</div>
+
+    <p>
+      Hola amorcito,<br />
+      Esta página es solo para recordarte lo mucho que te amo y lo feliz que me haces cada día.
+      Gracias por ser tú, por tus sonrisas, tu cariño y por estar a mi lado.
+    </p>
+
+    <p>
+      Eres mi sol en los días nublados y mi abrazo favorito en los días difíciles.<br />
+      Te amo con todo mi corazón. 💗
+    </p>
+
+    <p>
+      Siempre tuyo,<br />
+      [Tu nombre]
+    </p>
+
+    <footer>
+      Hecho con mucho amor 💘
+    </footer>
+  </div>
+</body>
+</html>
